@@ -145,7 +145,6 @@ public class ForStructure {
 			System.out.print("\n");
 			Number = Scan.nextInt();
 				
-			Print = 0;
 			
 			}
 			break;
